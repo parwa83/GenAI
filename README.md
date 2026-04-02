@@ -50,7 +50,7 @@ Handles placeholder messages for dynamic prompt filling and chaining.
 Chat_History.txt
 Stores past conversation logs for reference and context tracking.
 
-⚙️ Configuration Files
+ Configuration Files
 
 .gitignore
 Specifies files and folders to be excluded from version control.
