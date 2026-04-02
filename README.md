@@ -7,20 +7,21 @@ The code in this repository is implemented while following his teachings and is 
 I am truly thankful for the guidance and inspiration provided through his content.
 
 
-📂 Project Structure & Code Description
-🔹 1.LLMs/
+Project Structure & Code Description
+
+ 1.LLMs/
 
 Contains basic experiments and demos related to Large Language Models (LLMs), focusing on understanding model behavior and usage.
 
-🔹 2.Chat_Models/
+ 2.Chat_Models/
 
 Implements different chat-based model interactions, showcasing how conversational AI systems are structured and invoked.
 
-🔹 Embedding_Model/
+ Embedding_Model/
 
 Demonstrates text embedding techniques used for similarity search, retrieval, and semantic understanding.
 
-📄 Core Python Files
+ Core Python Files
 
 ChatBot.py
 A simple chatbot implementation demonstrating prompt-response flow using an LLM.
